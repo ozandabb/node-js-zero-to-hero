@@ -1,0 +1,6 @@
+# Node Modules
+/Node_Express/NE_Simple_CRUD_MySQL/node_modules
+
+
+# Package-lock
+/Node_Express/NE_Simple_CRUD_MySQL/package-lock.json

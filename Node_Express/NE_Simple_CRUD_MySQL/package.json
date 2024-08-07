@@ -1,0 +1,30 @@
+{
+  "name": "ne_simple_crud_mysql",
+  "version": "1.0.0",
+  "description": "Node.js + Express.js + MySQL - Simple CRUD",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozandabb/node-js-zero-to-hero.git"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "mysql"
+  ],
+  "author": "Osanda Gamage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozandabb/node-js-zero-to-hero/issues"
+  },
+  "homepage": "https://github.com/ozandabb/node-js-zero-to-hero#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
